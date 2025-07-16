@@ -16,7 +16,11 @@ It uses **Python, Pandas, Matplotlib, and Seaborn** for data cleaning, feature e
 - Data cleaning and preprocessing  
 - Feature engineering (hour, day, time slot extraction)  
 - Visualizations (count plots, stacked bar charts, heatmaps)  
-- Insights and recommendations based on data trends  
+- Insights and recommendations based on data trends
+
+<img width="1260" height="683" alt="image" src="https://github.com/user-attachments/assets/b572219f-7883-48d4-ab03-5a24125a0e76" />
+<img width="680" height="565" alt="image" src="https://github.com/user-attachments/assets/c6babb27-b474-42c7-a9a7-37321316bfe9" />
+
 
 ---
 
